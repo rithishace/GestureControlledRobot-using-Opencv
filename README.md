@@ -15,3 +15,4 @@ The following gestures are assigned for robot movement:
 the first 50 frames is considered for background subtraction, to reset background press bkey.
 
   
+DEMO VIDEO: https://youtu.be/Mn6XZ3AyYTI
